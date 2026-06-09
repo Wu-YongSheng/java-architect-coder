@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Architect Coder"
+  short_description: "Business-aware Java architecture with graphify."
+  default_prompt: "Use $java-architect-coder to understand the business requirement, query the code graph, choose the right Java abstraction, and implement maintainable Spring Boot changes under Alibaba conventions."
